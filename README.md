@@ -19,7 +19,7 @@ A continuación se presenta el resumen interactivo de los componentes desarrolla
 
 | Proyecto | Tecnologías | Formatos de Archivo | Enlace Directo |
 | :--- | :--- | :--- | :--- |
-| **Proyecto 1: Control de Acceso** | Python / PHP / HTML / CSS | `.json`, `.txt` | [Ver Proyecto](ABPj - Control de acceso) |
+| **Proyecto 1: Control de Acceso** | Python / PHP / HTML / CSS | `.json`, `.txt` | [Ver Proyecto]([ABPj - Control de acceso](https://github.com/angelsSalas/Organizacion-Archivos-Portfolio/tree/main/ABPj%20-%20Control%20de%20acceso)) |
 | **Proyecto 2: Evaluación General de OA** | Python | `.py` (Procesamiento) | [Ver Proyecto](./Proyecto-2-EvaluacionGeneral/) |
 | **Proyecto 3: Visualización de Información** | Python / CSV | `.csv`, `.py` | [Ver Proyecto](./Visualizaci%C3%B3n%20de%20Informaci%C3%B3n%20con%20Python/) |
 | **Proyecto 4: Data Bridge** | Python / CSS | `.txt`, `.css` | [Ver Proyecto](./Proyecto-4-DataBridge/) |
