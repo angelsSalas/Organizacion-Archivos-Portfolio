@@ -1,0 +1,9 @@
+2026-04-20 18:58:58 - ENTRADA AUTORIZADA - Ángel Adán Salas Cabello
+2026-04-20 18:59:04 - ENTRADA AUTORIZADA - Yael Alexander Calderón Reyes
+2026-04-20 18:59:11 - ENTRADA AUTORIZADA - Christian Daniel Martínez Márquez
+2026-04-20 18:59:16 - ALERTA - Intento de entrada NO AUTORIZADA
+2026-04-21 11:19:20 - ENTRADA AUTORIZADA - Ángel Adán Salas Cabello
+2026-04-21 11:19:53 - ENTRADA AUTORIZADA - Christian Daniel Martínez Márquez
+2026-04-21 11:19:59 - ALERTA - Intento de entrada NO AUTORIZADA
+2026-04-21 11:20:40 - ALERTA - Intento de entrada NO AUTORIZADA
+2026-04-21 11:20:57 - ALERTA - Intento de entrada NO AUTORIZADA

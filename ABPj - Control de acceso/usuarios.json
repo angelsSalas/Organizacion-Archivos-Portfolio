@@ -1,0 +1,21 @@
+ 
+[
+  {
+    "id_tarjeta": "12345",
+    "nombre_empleado": "Ángel Adán Salas Cabello",
+    "departamento": "Producción",
+    "nivel_seguridad": 2
+  },
+  {
+    "id_tarjeta": "67890",
+    "nombre_empleado": "Yael Alexander Calderón Reyes",
+    "departamento": "Calidad",
+    "nivel_seguridad": 3
+  },
+  {
+    "id_tarjeta": "54321",
+    "nombre_empleado": "Christian Daniel Martínez Márquez",
+    "departamento": "Mantenimiento",
+    "nivel_seguridad": 2
+  }
+]
