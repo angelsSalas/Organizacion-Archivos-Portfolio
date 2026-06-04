@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #141e30, #243b55);
+    text-align: center;
+    color: white;
+}
+
+form {
+    margin-top: 50px;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 25px;
+    border: none;
+    background-color: #00c3ff;
+    font-weight: bold;
+    cursor: pointer;
+}
