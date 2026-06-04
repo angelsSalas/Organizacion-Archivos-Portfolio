@@ -17,4 +17,4 @@ A continuación se presenta el resumen interactivo de los componentes desarrolla
 | **Proyecto 1: Data Bridge** | Python / CSS /html | `.txt`, `.css`,`.html` | [Ver Proyecto](https://github.com/angelsSalas/Organizacion-Archivos-Portfolio/tree/main/data-bridge/src) | |
 | **Proyecto 2: Control de Acceso** | Python / PHP / HTML / CSS | `.json`, `.txt` | [Ver Proyecto](./ABPj%20-%20Control%20de%20acceso/) |
 | **Proyecto 3: Visualización de Información** | Python / CSV | `.csv`, `.py` | [Ver Proyecto](./Visualizaci%C3%B3n%20de%20Informaci%C3%B3n%20con%20Python/) |
-| **Proyecto 4: Evaluación General de OA** | Python | `.py`,`.json`,`css` | [Ver Proyecto](https://github.com/angelsSalas/Organizacion-Archivos-Portfolio/tree/main/valuacion%20Evaluaci%C3%B3n%20general%20de%20OA) |
+| **Proyecto 4: Evaluación General de OA** | Python / json/ css | `.py`,`.json`,`css` | [Ver Proyecto](https://github.com/angelsSalas/Organizacion-Archivos-Portfolio/tree/main/valuacion%20Evaluaci%C3%B3n%20general%20de%20OA) |
