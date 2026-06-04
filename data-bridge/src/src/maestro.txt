@@ -1,0 +1,500 @@
+HW-2026-0001|Muscle Tone|Blanco|Fibra de Carbono (Simulada)|Low-Rider|1997
+HW-2026-0002|Bone Shaker|Rojo|Fibra de Carbono (Simulada)|Clásico|1985
+HW-2026-0003|Bone Shaker|Naranja|Metal|Off-Road|1980
+HW-2026-0004|Deora II|Verde|Aleación Ligera|Prototipo|2012
+HW-2026-0005|Night Shifter|Azul|Fibra de Carbono (Simulada)|Off-Road|2001
+HW-2026-0006|Deora II|Blanco|Plástico Reforzado|Off-Road|2016
+HW-2026-0007|Twin Mill|Rojo|Plástico Reforzado|Low-Rider|1989
+HW-2026-0008|Night Shifter|Naranja|Fibra de Carbono (Simulada)|Low-Rider|1988
+HW-2026-0009|Bone Shaker|Rojo|Plástico Reforzado|Prototipo|1991
+HW-2026-0010|Deora II|Negro|Fibra de Carbono (Simulada)|Clásico|1979
+HW-2026-0011|Rodger Dodger|Verde|Fibra de Carbono (Simulada)|Deportivo|1969
+HW-2026-0012|Twin Mill|Naranja|Aleación Ligera|Off-Road|2015
+HW-2026-0013|Rodger Dodger|Verde|Fibra de Carbono (Simulada)|Low-Rider|1977
+HW-2026-0014|Twin Mill|Naranja|Fibra de Carbono (Simulada)|Deportivo|1988
+HW-2026-0015|Bone Shaker|Negro|Plástico Reforzado|Deportivo|1995
+HW-2026-0016|Twin Mill|Amarillo|Metal|Clásico|2004
+HW-2026-0017|Deora II|Naranja|Fibra de Carbono (Simulada)|Deportivo|2003
+HW-2026-0018|Twin Mill|Azul|Plástico Reforzado|Deportivo|1973
+HW-2026-0019|Bone Shaker|Amarillo|Aleación Ligera|Deportivo|2009
+HW-2026-0020|Twin Mill|Verde|Metal|Low-Rider|1997
+HW-2026-0021|Rodger Dodger|Negro|Plástico Reforzado|Off-Road|2025
+HW-2026-0022|Rodger Dodger|Negro|Metal|Clásico|2004
+HW-2026-0023|Twin Mill|Amarillo|Aleación Ligera|Deportivo|2012
+HW-2026-0024|Muscle Tone|Blanco|Metal|Low-Rider|1984
+HW-2026-0025|Rodger Dodger|Verde|Metal|Deportivo|2024
+HW-2026-0026|Bone Shaker|Azul|Metal|Clásico|1987
+HW-2026-0027|Bone Shaker|Azul|Plástico Reforzado|Prototipo|2010
+HW-2026-0028|Muscle Tone|Rojo|Plástico Reforzado|Off-Road|1971
+HW-2026-0029|Night Shifter|Verde|Metal|Clásico|1985
+HW-2026-0030|Deora II|Rojo|Aleación Ligera|Off-Road|1980
+HW-2026-0031|Twin Mill|Blanco|Fibra de Carbono (Simulada)|Clásico|2017
+HW-2026-0032|Muscle Tone|Naranja|Aleación Ligera|Low-Rider|1984
+HW-2026-0033|Twin Mill|Negro|Aleación Ligera|Clásico|1988
+HW-2026-0034|Twin Mill|Amarillo|Metal|Off-Road|1996
+HW-2026-0035|Night Shifter|Rojo|Fibra de Carbono (Simulada)|Prototipo|1969
+HW-2026-0036|Night Shifter|Negro|Plástico Reforzado|Low-Rider|1990
+HW-2026-0037|Bone Shaker|Amarillo|Metal|Low-Rider|2013
+HW-2026-0038|Twin Mill|Verde|Metal|Deportivo|1986
+HW-2026-0039|Night Shifter|Negro|Plástico Reforzado|Prototipo|2015
+HW-2026-0040|Deora II|Azul|Plástico Reforzado|Prototipo|2003
+HW-2026-0041|Rodger Dodger|Negro|Plástico Reforzado|Off-Road|2016
+HW-2026-0042|Deora II|Naranja|Plástico Reforzado|Clásico|1970
+HW-2026-0043|Twin Mill|Azul|Aleación Ligera|Clásico|1973
+HW-2026-0044|Night Shifter|Negro|Plástico Reforzado|Off-Road|2026
+HW-2026-0045|Rodger Dodger|Naranja|Metal|Off-Road|1985
+HW-2026-0046|Twin Mill|Naranja|Aleación Ligera|Off-Road|2008
+HW-2026-0047|Bone Shaker|Amarillo|Aleación Ligera|Prototipo|2008
+HW-2026-0048|Rodger Dodger|Blanco|Metal|Low-Rider|1990
+HW-2026-0049|Deora II|Amarillo|Fibra de Carbono (Simulada)|Low-Rider|2010
+HW-2026-0050|Night Shifter|Naranja|Aleación Ligera|Deportivo|1995
+HW-2026-0051|Rodger Dodger|Azul|Plástico Reforzado|Clásico|1982
+HW-2026-0052|Rodger Dodger|Negro|Metal|Off-Road|1973
+HW-2026-0053|Deora II|Verde|Fibra de Carbono (Simulada)|Off-Road|1990
+HW-2026-0054|Deora II|Naranja|Plástico Reforzado|Prototipo|1968
+HW-2026-0055|Muscle Tone|Rojo|Fibra de Carbono (Simulada)|Clásico|2025
+HW-2026-0056|Muscle Tone|Azul|Aleación Ligera|Deportivo|1986
+HW-2026-0057|Rodger Dodger|Verde|Fibra de Carbono (Simulada)|Off-Road|1971
+HW-2026-0058|Night Shifter|Azul|Aleación Ligera|Deportivo|1969
+HW-2026-0059|Night Shifter|Verde|Metal|Prototipo|2025
+HW-2026-0060|Muscle Tone|Naranja|Fibra de Carbono (Simulada)|Low-Rider|1974
+HW-2026-0061|Rodger Dodger|Amarillo|Plástico Reforzado|Off-Road|1989
+HW-2026-0062|Twin Mill|Blanco|Metal|Deportivo|2024
+HW-2026-0063|Muscle Tone|Naranja|Metal|Off-Road|2010
+HW-2026-0064|Bone Shaker|Verde|Aleación Ligera|Off-Road|2025
+HW-2026-0065|Night Shifter|Rojo|Aleación Ligera|Prototipo|1983
+HW-2026-0066|Twin Mill|Negro|Aleación Ligera|Low-Rider|1998
+HW-2026-0067|Bone Shaker|Amarillo|Aleación Ligera|Clásico|2010
+HW-2026-0068|Muscle Tone|Naranja|Metal|Prototipo|1994
+HW-2026-0069|Twin Mill|Amarillo|Fibra de Carbono (Simulada)|Off-Road|1977
+HW-2026-0070|Twin Mill|Amarillo|Metal|Off-Road|2017
+HW-2026-0071|Night Shifter|Naranja|Aleación Ligera|Clásico|1968
+HW-2026-0072|Bone Shaker|Negro|Fibra de Carbono (Simulada)|Low-Rider|1992
+HW-2026-0073|Muscle Tone|Verde|Aleación Ligera|Prototipo|2024
+HW-2026-0074|Bone Shaker|Rojo|Fibra de Carbono (Simulada)|Off-Road|2009
+HW-2026-0075|Muscle Tone|Naranja|Metal|Low-Rider|1977
+HW-2026-0076|Deora II|Verde|Plástico Reforzado|Low-Rider|2008
+HW-2026-0077|Night Shifter|Naranja|Aleación Ligera|Off-Road|2000
+HW-2026-0078|Muscle Tone|Negro|Fibra de Carbono (Simulada)|Clásico|2013
+HW-2026-0079|Night Shifter|Amarillo|Plástico Reforzado|Low-Rider|2000
+HW-2026-0080|Night Shifter|Verde|Metal|Deportivo|2015
+HW-2026-0081|Bone Shaker|Azul|Metal|Off-Road|1974
+HW-2026-0082|Deora II|Azul|Metal|Prototipo|2016
+HW-2026-0083|Muscle Tone|Verde|Metal|Deportivo|2015
+HW-2026-0084|Night Shifter|Blanco|Plástico Reforzado|Clásico|2008
+HW-2026-0085|Deora II|Amarillo|Plástico Reforzado|Off-Road|2004
+HW-2026-0086|Night Shifter|Rojo|Metal|Prototipo|1992
+HW-2026-0087|Night Shifter|Rojo|Plástico Reforzado|Deportivo|2021
+HW-2026-0088|Deora II|Verde|Aleación Ligera|Off-Road|2021
+HW-2026-0089|Bone Shaker|Naranja|Metal|Clásico|2019
+HW-2026-0090|Bone Shaker|Blanco|Metal|Prototipo|1971
+HW-2026-0091|Rodger Dodger|Rojo|Fibra de Carbono (Simulada)|Off-Road|1998
+HW-2026-0092|Rodger Dodger|Azul|Plástico Reforzado|Off-Road|2002
+HW-2026-0093|Muscle Tone|Naranja|Aleación Ligera|Off-Road|2015
+HW-2026-0094|Bone Shaker|Verde|Metal|Low-Rider|2005
+HW-2026-0095|Twin Mill|Negro|Fibra de Carbono (Simulada)|Clásico|1994
+HW-2026-0096|Muscle Tone|Amarillo|Metal|Prototipo|2002
+HW-2026-0097|Deora II|Blanco|Plástico Reforzado|Deportivo|1992
+HW-2026-0098|Night Shifter|Verde|Fibra de Carbono (Simulada)|Low-Rider|2023
+HW-2026-0099|Muscle Tone|Blanco|Fibra de Carbono (Simulada)|Prototipo|2014
+HW-2026-0100|Muscle Tone|Amarillo|Metal|Low-Rider|1980
+HW-2026-0101|Deora II|Naranja|Plástico Reforzado|Deportivo|1998
+HW-2026-0102|Muscle Tone|Rojo|Metal|Deportivo|1990
+HW-2026-0103|Night Shifter|Azul|Aleación Ligera|Deportivo|2018
+HW-2026-0104|Night Shifter|Azul|Aleación Ligera|Prototipo|2014
+HW-2026-0105|Bone Shaker|Verde|Aleación Ligera|Prototipo|2004
+HW-2026-0106|Deora II|Azul|Metal|Deportivo|1992
+HW-2026-0107|Night Shifter|Rojo|Plástico Reforzado|Prototipo|2019
+HW-2026-0108|Twin Mill|Negro|Metal|Clásico|1973
+HW-2026-0109|Bone Shaker|Amarillo|Plástico Reforzado|Deportivo|1991
+HW-2026-0110|Bone Shaker|Verde|Fibra de Carbono (Simulada)|Clásico|1977
+HW-2026-0111|Bone Shaker|Amarillo|Metal|Off-Road|1992
+HW-2026-0112|Bone Shaker|Rojo|Plástico Reforzado|Off-Road|2010
+HW-2026-0113|Muscle Tone|Negro|Plástico Reforzado|Deportivo|2003
+HW-2026-0114|Rodger Dodger|Azul|Plástico Reforzado|Clásico|2023
+HW-2026-0115|Muscle Tone|Azul|Metal|Clásico|1968
+HW-2026-0116|Twin Mill|Azul|Plástico Reforzado|Prototipo|2021
+HW-2026-0117|Bone Shaker|Negro|Aleación Ligera|Low-Rider|2006
+HW-2026-0118|Muscle Tone|Verde|Fibra de Carbono (Simulada)|Off-Road|1995
+HW-2026-0119|Rodger Dodger|Negro|Metal|Deportivo|1972
+HW-2026-0120|Rodger Dodger|Naranja|Aleación Ligera|Clásico|1993
+HW-2026-0121|Deora II|Azul|Fibra de Carbono (Simulada)|Deportivo|1991
+HW-2026-0122|Rodger Dodger|Naranja|Fibra de Carbono (Simulada)|Prototipo|1987
+HW-2026-0123|Muscle Tone|Rojo|Fibra de Carbono (Simulada)|Low-Rider|1973
+HW-2026-0124|Twin Mill|Naranja|Fibra de Carbono (Simulada)|Deportivo|1997
+HW-2026-0125|Rodger Dodger|Blanco|Aleación Ligera|Clásico|2006
+HW-2026-0126|Rodger Dodger|Rojo|Fibra de Carbono (Simulada)|Deportivo|1974
+HW-2026-0127|Deora II|Negro|Aleación Ligera|Clásico|2001
+HW-2026-0128|Twin Mill|Blanco|Fibra de Carbono (Simulada)|Prototipo|2014
+HW-2026-0129|Deora II|Azul|Metal|Off-Road|1972
+HW-2026-0130|Twin Mill|Azul|Aleación Ligera|Prototipo|1991
+HW-2026-0131|Night Shifter|Rojo|Fibra de Carbono (Simulada)|Prototipo|1973
+HW-2026-0132|Deora II|Negro|Metal|Off-Road|1978
+HW-2026-0133|Night Shifter|Negro|Plástico Reforzado|Prototipo|1993
+HW-2026-0134|Night Shifter|Negro|Aleación Ligera|Prototipo|1969
+HW-2026-0135|Muscle Tone|Verde|Metal|Off-Road|2010
+HW-2026-0136|Night Shifter|Blanco|Plástico Reforzado|Prototipo|1993
+HW-2026-0137|Deora II|Negro|Aleación Ligera|Deportivo|2009
+HW-2026-0138|Muscle Tone|Verde|Fibra de Carbono (Simulada)|Deportivo|2019
+HW-2026-0139|Night Shifter|Negro|Metal|Deportivo|2000
+HW-2026-0140|Deora II|Rojo|Metal|Prototipo|1995
+HW-2026-0141|Bone Shaker|Verde|Aleación Ligera|Off-Road|1991
+HW-2026-0142|Rodger Dodger|Negro|Metal|Prototipo|2015
+HW-2026-0143|Rodger Dodger|Azul|Plástico Reforzado|Prototipo|2002
+HW-2026-0144|Deora II|Negro|Metal|Deportivo|1969
+HW-2026-0145|Bone Shaker|Naranja|Aleación Ligera|Clásico|1976
+HW-2026-0146|Night Shifter|Amarillo|Aleación Ligera|Low-Rider|1968
+HW-2026-0147|Rodger Dodger|Azul|Aleación Ligera|Clásico|1996
+HW-2026-0148|Muscle Tone|Azul|Fibra de Carbono (Simulada)|Off-Road|1971
+HW-2026-0149|Muscle Tone|Blanco|Plástico Reforzado|Deportivo|1974
+HW-2026-0150|Deora II|Amarillo|Plástico Reforzado|Prototipo|1987
+HW-2026-0151|Muscle Tone|Rojo|Aleación Ligera|Off-Road|2022
+HW-2026-0152|Deora II|Rojo|Plástico Reforzado|Prototipo|2006
+HW-2026-0153|Twin Mill|Verde|Metal|Low-Rider|1975
+HW-2026-0154|Twin Mill|Negro|Plástico Reforzado|Prototipo|2010
+HW-2026-0155|Muscle Tone|Rojo|Plástico Reforzado|Deportivo|1975
+HW-2026-0156|Bone Shaker|Verde|Aleación Ligera|Clásico|2015
+HW-2026-0157|Twin Mill|Azul|Aleación Ligera|Prototipo|1982
+HW-2026-0158|Twin Mill|Naranja|Metal|Clásico|2024
+HW-2026-0159|Twin Mill|Negro|Aleación Ligera|Clásico|2019
+HW-2026-0160|Muscle Tone|Rojo|Fibra de Carbono (Simulada)|Prototipo|1973
+HW-2026-0161|Twin Mill|Verde|Fibra de Carbono (Simulada)|Off-Road|2012
+HW-2026-0162|Twin Mill|Verde|Plástico Reforzado|Clásico|1983
+HW-2026-0163|Muscle Tone|Azul|Plástico Reforzado|Prototipo|2012
+HW-2026-0164|Rodger Dodger|Amarillo|Fibra de Carbono (Simulada)|Prototipo|1991
+HW-2026-0165|Twin Mill|Verde|Aleación Ligera|Low-Rider|2024
+HW-2026-0166|Bone Shaker|Azul|Plástico Reforzado|Prototipo|2018
+HW-2026-0167|Deora II|Azul|Plástico Reforzado|Deportivo|2006
+HW-2026-0168|Twin Mill|Rojo|Fibra de Carbono (Simulada)|Low-Rider|2007
+HW-2026-0169|Muscle Tone|Naranja|Plástico Reforzado|Prototipo|2018
+HW-2026-0170|Muscle Tone|Azul|Aleación Ligera|Deportivo|1996
+HW-2026-0171|Night Shifter|Azul|Aleación Ligera|Deportivo|1970
+HW-2026-0172|Deora II|Verde|Aleación Ligera|Low-Rider|1999
+HW-2026-0173|Bone Shaker|Negro|Fibra de Carbono (Simulada)|Low-Rider|2008
+HW-2026-0174|Deora II|Azul|Metal|Prototipo|1995
+HW-2026-0175|Twin Mill|Negro|Aleación Ligera|Deportivo|1995
+HW-2026-0176|Night Shifter|Blanco|Plástico Reforzado|Deportivo|1980
+HW-2026-0177|Deora II|Blanco|Metal|Low-Rider|2026
+HW-2026-0178|Night Shifter|Negro|Aleación Ligera|Clásico|1981
+HW-2026-0179|Rodger Dodger|Negro|Fibra de Carbono (Simulada)|Off-Road|2012
+HW-2026-0180|Rodger Dodger|Blanco|Metal|Clásico|1991
+HW-2026-0181|Deora II|Blanco|Plástico Reforzado|Clásico|1977
+HW-2026-0182|Night Shifter|Verde|Aleación Ligera|Prototipo|2018
+HW-2026-0183|Muscle Tone|Rojo|Metal|Clásico|2011
+HW-2026-0184|Deora II|Rojo|Plástico Reforzado|Prototipo|2009
+HW-2026-0185|Night Shifter|Blanco|Fibra de Carbono (Simulada)|Prototipo|1987
+HW-2026-0186|Deora II|Amarillo|Fibra de Carbono (Simulada)|Clásico|2007
+HW-2026-0187|Rodger Dodger|Naranja|Aleación Ligera|Off-Road|2001
+HW-2026-0188|Rodger Dodger|Blanco|Aleación Ligera|Prototipo|1996
+HW-2026-0189|Twin Mill|Negro|Metal|Clásico|1975
+HW-2026-0190|Bone Shaker|Verde|Plástico Reforzado|Low-Rider|1994
+HW-2026-0191|Night Shifter|Naranja|Plástico Reforzado|Deportivo|2014
+HW-2026-0192|Deora II|Blanco|Aleación Ligera|Off-Road|1980
+HW-2026-0193|Twin Mill|Naranja|Fibra de Carbono (Simulada)|Prototipo|1993
+HW-2026-0194|Muscle Tone|Negro|Metal|Prototipo|1998
+HW-2026-0195|Night Shifter|Amarillo|Plástico Reforzado|Prototipo|1996
+HW-2026-0196|Twin Mill|Amarillo|Fibra de Carbono (Simulada)|Off-Road|1975
+HW-2026-0197|Rodger Dodger|Negro|Fibra de Carbono (Simulada)|Prototipo|1987
+HW-2026-0198|Rodger Dodger|Azul|Metal|Prototipo|1994
+HW-2026-0199|Night Shifter|Naranja|Fibra de Carbono (Simulada)|Low-Rider|1977
+HW-2026-0200|Muscle Tone|Negro|Fibra de Carbono (Simulada)|Deportivo|1988
+HW-2026-0201|Twin Mill|Blanco|Aleación Ligera|Low-Rider|2010
+HW-2026-0202|Rodger Dodger|Naranja|Metal|Low-Rider|1999
+HW-2026-0203|Night Shifter|Naranja|Metal|Low-Rider|1994
+HW-2026-0204|Bone Shaker|Blanco|Metal|Clásico|2006
+HW-2026-0205|Muscle Tone|Verde|Fibra de Carbono (Simulada)|Off-Road|1993
+HW-2026-0206|Muscle Tone|Azul|Metal|Off-Road|1989
+HW-2026-0207|Deora II|Naranja|Plástico Reforzado|Low-Rider|1972
+HW-2026-0208|Night Shifter|Negro|Plástico Reforzado|Prototipo|1968
+HW-2026-0209|Deora II|Blanco|Metal|Off-Road|2019
+HW-2026-0210|Twin Mill|Azul|Fibra de Carbono (Simulada)|Low-Rider|1978
+HW-2026-0211|Muscle Tone|Verde|Fibra de Carbono (Simulada)|Deportivo|2018
+HW-2026-0212|Muscle Tone|Verde|Aleación Ligera|Clásico|2025
+HW-2026-0213|Night Shifter|Rojo|Plástico Reforzado|Low-Rider|1977
+HW-2026-0214|Night Shifter|Amarillo|Fibra de Carbono (Simulada)|Clásico|1989
+HW-2026-0215|Deora II|Blanco|Fibra de Carbono (Simulada)|Deportivo|1976
+HW-2026-0216|Bone Shaker|Amarillo|Plástico Reforzado|Low-Rider|2012
+HW-2026-0217|Twin Mill|Amarillo|Aleación Ligera|Prototipo|1995
+HW-2026-0218|Night Shifter|Rojo|Plástico Reforzado|Clásico|1977
+HW-2026-0219|Deora II|Naranja|Aleación Ligera|Low-Rider|1999
+HW-2026-0220|Muscle Tone|Negro|Fibra de Carbono (Simulada)|Deportivo|1975
+HW-2026-0221|Bone Shaker|Azul|Metal|Prototipo|2007
+HW-2026-0222|Twin Mill|Azul|Aleación Ligera|Prototipo|2015
+HW-2026-0223|Twin Mill|Naranja|Aleación Ligera|Off-Road|1974
+HW-2026-0224|Rodger Dodger|Negro|Metal|Off-Road|2004
+HW-2026-0225|Twin Mill|Blanco|Fibra de Carbono (Simulada)|Clásico|2004
+HW-2026-0226|Twin Mill|Rojo|Plástico Reforzado|Clásico|1993
+HW-2026-0227|Deora II|Naranja|Fibra de Carbono (Simulada)|Clásico|2006
+HW-2026-0228|Bone Shaker|Blanco|Plástico Reforzado|Clásico|2023
+HW-2026-0229|Night Shifter|Amarillo|Aleación Ligera|Clásico|2001
+HW-2026-0230|Deora II|Blanco|Aleación Ligera|Deportivo|1971
+HW-2026-0231|Night Shifter|Naranja|Aleación Ligera|Low-Rider|2012
+HW-2026-0232|Night Shifter|Verde|Aleación Ligera|Deportivo|1993
+HW-2026-0233|Rodger Dodger|Amarillo|Plástico Reforzado|Prototipo|1978
+HW-2026-0234|Muscle Tone|Blanco|Aleación Ligera|Off-Road|2022
+HW-2026-0235|Night Shifter|Negro|Fibra de Carbono (Simulada)|Clásico|2015
+HW-2026-0236|Twin Mill|Amarillo|Fibra de Carbono (Simulada)|Prototipo|2006
+HW-2026-0237|Twin Mill|Azul|Aleación Ligera|Off-Road|2026
+HW-2026-0238|Night Shifter|Verde|Metal|Low-Rider|1975
+HW-2026-0239|Rodger Dodger|Verde|Metal|Deportivo|1978
+HW-2026-0240|Deora II|Verde|Aleación Ligera|Prototipo|1986
+HW-2026-0241|Twin Mill|Amarillo|Fibra de Carbono (Simulada)|Clásico|1985
+HW-2026-0242|Deora II|Verde|Plástico Reforzado|Clásico|1993
+HW-2026-0243|Rodger Dodger|Negro|Plástico Reforzado|Prototipo|2021
+HW-2026-0244|Night Shifter|Amarillo|Aleación Ligera|Prototipo|2017
+HW-2026-0245|Twin Mill|Amarillo|Fibra de Carbono (Simulada)|Prototipo|2012
+HW-2026-0246|Deora II|Verde|Metal|Prototipo|1982
+HW-2026-0247|Twin Mill|Naranja|Aleación Ligera|Off-Road|1981
+HW-2026-0248|Deora II|Amarillo|Aleación Ligera|Off-Road|1998
+HW-2026-0249|Bone Shaker|Naranja|Fibra de Carbono (Simulada)|Off-Road|2005
+HW-2026-0250|Bone Shaker|Naranja|Metal|Prototipo|1991
+HW-2026-0251|Night Shifter|Amarillo|Metal|Low-Rider|1971
+HW-2026-0252|Night Shifter|Negro|Metal|Prototipo|2008
+HW-2026-0253|Twin Mill|Azul|Plástico Reforzado|Prototipo|1991
+HW-2026-0254|Night Shifter|Blanco|Plástico Reforzado|Prototipo|1971
+HW-2026-0255|Muscle Tone|Blanco|Plástico Reforzado|Off-Road|2023
+HW-2026-0256|Twin Mill|Rojo|Aleación Ligera|Low-Rider|2011
+HW-2026-0257|Bone Shaker|Rojo|Plástico Reforzado|Prototipo|2002
+HW-2026-0258|Rodger Dodger|Azul|Metal|Prototipo|2003
+HW-2026-0259|Twin Mill|Blanco|Plástico Reforzado|Clásico|1981
+HW-2026-0260|Twin Mill|Naranja|Metal|Prototipo|2008
+HW-2026-0261|Twin Mill|Verde|Aleación Ligera|Off-Road|1982
+HW-2026-0262|Night Shifter|Verde|Fibra de Carbono (Simulada)|Prototipo|1995
+HW-2026-0263|Muscle Tone|Negro|Metal|Deportivo|2011
+HW-2026-0264|Night Shifter|Verde|Fibra de Carbono (Simulada)|Clásico|1980
+HW-2026-0265|Muscle Tone|Amarillo|Metal|Clásico|2025
+HW-2026-0266|Deora II|Naranja|Metal|Off-Road|1976
+HW-2026-0267|Muscle Tone|Azul|Fibra de Carbono (Simulada)|Clásico|2022
+HW-2026-0268|Deora II|Azul|Aleación Ligera|Deportivo|2018
+HW-2026-0269|Twin Mill|Amarillo|Aleación Ligera|Clásico|1983
+HW-2026-0270|Night Shifter|Negro|Plástico Reforzado|Off-Road|2009
+HW-2026-0271|Muscle Tone|Amarillo|Metal|Deportivo|2020
+HW-2026-0272|Bone Shaker|Verde|Plástico Reforzado|Low-Rider|2003
+HW-2026-0273|Night Shifter|Rojo|Fibra de Carbono (Simulada)|Off-Road|2011
+HW-2026-0274|Night Shifter|Amarillo|Plástico Reforzado|Deportivo|2026
+HW-2026-0275|Bone Shaker|Negro|Metal|Low-Rider|2021
+HW-2026-0276|Rodger Dodger|Rojo|Plástico Reforzado|Low-Rider|1968
+HW-2026-0277|Rodger Dodger|Amarillo|Plástico Reforzado|Deportivo|1968
+HW-2026-0278|Night Shifter|Rojo|Plástico Reforzado|Off-Road|1981
+HW-2026-0279|Bone Shaker|Azul|Aleación Ligera|Clásico|1975
+HW-2026-0280|Night Shifter|Naranja|Aleación Ligera|Deportivo|2016
+HW-2026-0281|Muscle Tone|Rojo|Aleación Ligera|Deportivo|1984
+HW-2026-0282|Night Shifter|Naranja|Aleación Ligera|Low-Rider|2007
+HW-2026-0283|Night Shifter|Negro|Plástico Reforzado|Off-Road|2020
+HW-2026-0284|Rodger Dodger|Azul|Plástico Reforzado|Off-Road|2007
+HW-2026-0285|Deora II|Verde|Fibra de Carbono (Simulada)|Low-Rider|1979
+HW-2026-0286|Muscle Tone|Amarillo|Fibra de Carbono (Simulada)|Prototipo|1982
+HW-2026-0287|Bone Shaker|Blanco|Aleación Ligera|Prototipo|1979
+HW-2026-0288|Night Shifter|Rojo|Fibra de Carbono (Simulada)|Off-Road|1973
+HW-2026-0289|Deora II|Azul|Metal|Deportivo|1988
+HW-2026-0290|Muscle Tone|Azul|Metal|Off-Road|2024
+HW-2026-0291|Twin Mill|Verde|Plástico Reforzado|Off-Road|2015
+HW-2026-0292|Rodger Dodger|Negro|Metal|Low-Rider|1995
+HW-2026-0293|Twin Mill|Rojo|Fibra de Carbono (Simulada)|Off-Road|2006
+HW-2026-0294|Muscle Tone|Verde|Plástico Reforzado|Off-Road|1989
+HW-2026-0295|Bone Shaker|Negro|Metal|Off-Road|1985
+HW-2026-0296|Muscle Tone|Blanco|Metal|Off-Road|1987
+HW-2026-0297|Bone Shaker|Azul|Plástico Reforzado|Prototipo|2022
+HW-2026-0298|Deora II|Verde|Metal|Prototipo|2006
+HW-2026-0299|Deora II|Blanco|Fibra de Carbono (Simulada)|Low-Rider|1975
+HW-2026-0300|Deora II|Verde|Aleación Ligera|Prototipo|2026
+HW-2026-0301|Rodger Dodger|Naranja|Plástico Reforzado|Off-Road|1987
+HW-2026-0302|Rodger Dodger|Verde|Plástico Reforzado|Deportivo|2020
+HW-2026-0303|Deora II|Azul|Fibra de Carbono (Simulada)|Clásico|2022
+HW-2026-0304|Night Shifter|Azul|Plástico Reforzado|Deportivo|1997
+HW-2026-0305|Muscle Tone|Amarillo|Fibra de Carbono (Simulada)|Clásico|2017
+HW-2026-0306|Bone Shaker|Blanco|Aleación Ligera|Clásico|1992
+HW-2026-0307|Night Shifter|Rojo|Fibra de Carbono (Simulada)|Low-Rider|2010
+HW-2026-0308|Rodger Dodger|Naranja|Fibra de Carbono (Simulada)|Clásico|1972
+HW-2026-0309|Deora II|Blanco|Aleación Ligera|Off-Road|1997
+HW-2026-0310|Bone Shaker|Blanco|Metal|Off-Road|2017
+HW-2026-0311|Rodger Dodger|Negro|Metal|Prototipo|2010
+HW-2026-0312|Twin Mill|Rojo|Metal|Clásico|1996
+HW-2026-0313|Bone Shaker|Blanco|Metal|Off-Road|1970
+HW-2026-0314|Muscle Tone|Verde|Plástico Reforzado|Low-Rider|1986
+HW-2026-0315|Night Shifter|Azul|Aleación Ligera|Off-Road|2019
+HW-2026-0316|Rodger Dodger|Naranja|Fibra de Carbono (Simulada)|Clásico|2023
+HW-2026-0317|Muscle Tone|Naranja|Metal|Off-Road|1979
+HW-2026-0318|Rodger Dodger|Naranja|Fibra de Carbono (Simulada)|Prototipo|1970
+HW-2026-0319|Rodger Dodger|Blanco|Fibra de Carbono (Simulada)|Deportivo|1975
+HW-2026-0320|Muscle Tone|Negro|Aleación Ligera|Deportivo|2000
+HW-2026-0321|Twin Mill|Negro|Aleación Ligera|Deportivo|2020
+HW-2026-0322|Twin Mill|Azul|Plástico Reforzado|Prototipo|1983
+HW-2026-0323|Night Shifter|Negro|Metal|Off-Road|1994
+HW-2026-0324|Bone Shaker|Amarillo|Plástico Reforzado|Prototipo|2002
+HW-2026-0325|Muscle Tone|Naranja|Aleación Ligera|Prototipo|2010
+HW-2026-0326|Deora II|Verde|Aleación Ligera|Clásico|2007
+HW-2026-0327|Twin Mill|Negro|Fibra de Carbono (Simulada)|Low-Rider|1999
+HW-2026-0328|Muscle Tone|Blanco|Metal|Clásico|1978
+HW-2026-0329|Rodger Dodger|Naranja|Metal|Clásico|2017
+HW-2026-0330|Deora II|Naranja|Metal|Low-Rider|1990
+HW-2026-0331|Muscle Tone|Amarillo|Plástico Reforzado|Deportivo|2026
+HW-2026-0332|Deora II|Naranja|Metal|Clásico|1986
+HW-2026-0333|Deora II|Negro|Fibra de Carbono (Simulada)|Off-Road|2002
+HW-2026-0334|Deora II|Verde|Plástico Reforzado|Off-Road|1978
+HW-2026-0335|Bone Shaker|Blanco|Plástico Reforzado|Prototipo|1971
+HW-2026-0336|Muscle Tone|Azul|Plástico Reforzado|Off-Road|2012
+HW-2026-0337|Rodger Dodger|Azul|Aleación Ligera|Off-Road|1976
+HW-2026-0338|Muscle Tone|Negro|Fibra de Carbono (Simulada)|Deportivo|2003
+HW-2026-0339|Deora II|Amarillo|Plástico Reforzado|Prototipo|1979
+HW-2026-0340|Night Shifter|Naranja|Metal|Prototipo|2010
+HW-2026-0341|Muscle Tone|Verde|Plástico Reforzado|Low-Rider|1974
+HW-2026-0342|Deora II|Negro|Fibra de Carbono (Simulada)|Off-Road|1988
+HW-2026-0343|Muscle Tone|Azul|Metal|Prototipo|1974
+HW-2026-0344|Muscle Tone|Naranja|Plástico Reforzado|Deportivo|1993
+HW-2026-0345|Bone Shaker|Negro|Metal|Deportivo|1977
+HW-2026-0346|Night Shifter|Verde|Fibra de Carbono (Simulada)|Low-Rider|2020
+HW-2026-0347|Bone Shaker|Amarillo|Fibra de Carbono (Simulada)|Prototipo|2022
+HW-2026-0348|Rodger Dodger|Naranja|Fibra de Carbono (Simulada)|Prototipo|1974
+HW-2026-0349|Twin Mill|Verde|Metal|Off-Road|2013
+HW-2026-0350|Muscle Tone|Azul|Metal|Off-Road|1992
+HW-2026-0351|Rodger Dodger|Amarillo|Metal|Off-Road|1975
+HW-2026-0352|Deora II|Amarillo|Plástico Reforzado|Deportivo|1988
+HW-2026-0353|Muscle Tone|Negro|Metal|Deportivo|2020
+HW-2026-0354|Muscle Tone|Blanco|Metal|Off-Road|2026
+HW-2026-0355|Rodger Dodger|Negro|Aleación Ligera|Low-Rider|2017
+HW-2026-0356|Deora II|Azul|Fibra de Carbono (Simulada)|Deportivo|1978
+HW-2026-0357|Muscle Tone|Azul|Fibra de Carbono (Simulada)|Clásico|2007
+HW-2026-0358|Twin Mill|Amarillo|Aleación Ligera|Clásico|2005
+HW-2026-0359|Night Shifter|Rojo|Plástico Reforzado|Prototipo|1973
+HW-2026-0360|Bone Shaker|Negro|Aleación Ligera|Off-Road|1988
+HW-2026-0361|Bone Shaker|Azul|Plástico Reforzado|Off-Road|2009
+HW-2026-0362|Muscle Tone|Naranja|Aleación Ligera|Deportivo|1982
+HW-2026-0363|Twin Mill|Amarillo|Metal|Clásico|2014
+HW-2026-0364|Bone Shaker|Blanco|Aleación Ligera|Off-Road|2021
+HW-2026-0365|Twin Mill|Verde|Metal|Off-Road|2018
+HW-2026-0366|Night Shifter|Negro|Aleación Ligera|Low-Rider|1975
+HW-2026-0367|Deora II|Naranja|Metal|Off-Road|1987
+HW-2026-0368|Night Shifter|Negro|Fibra de Carbono (Simulada)|Prototipo|1974
+HW-2026-0369|Muscle Tone|Negro|Metal|Deportivo|1983
+HW-2026-0370|Bone Shaker|Amarillo|Plástico Reforzado|Off-Road|2011
+HW-2026-0371|Deora II|Amarillo|Metal|Off-Road|2009
+HW-2026-0372|Twin Mill|Negro|Plástico Reforzado|Deportivo|2009
+HW-2026-0373|Bone Shaker|Verde|Fibra de Carbono (Simulada)|Low-Rider|1984
+HW-2026-0374|Muscle Tone|Azul|Plástico Reforzado|Deportivo|1990
+HW-2026-0375|Bone Shaker|Naranja|Fibra de Carbono (Simulada)|Off-Road|2021
+HW-2026-0376|Rodger Dodger|Naranja|Plástico Reforzado|Low-Rider|1970
+HW-2026-0377|Night Shifter|Negro|Aleación Ligera|Prototipo|1997
+HW-2026-0378|Twin Mill|Rojo|Aleación Ligera|Prototipo|1971
+HW-2026-0379|Twin Mill|Rojo|Metal|Clásico|1969
+HW-2026-0380|Twin Mill|Rojo|Fibra de Carbono (Simulada)|Prototipo|2015
+HW-2026-0381|Night Shifter|Azul|Fibra de Carbono (Simulada)|Prototipo|1980
+HW-2026-0382|Night Shifter|Verde|Metal|Off-Road|2022
+HW-2026-0383|Muscle Tone|Blanco|Plástico Reforzado|Off-Road|1972
+HW-2026-0384|Twin Mill|Azul|Aleación Ligera|Low-Rider|1997
+HW-2026-0385|Muscle Tone|Azul|Plástico Reforzado|Low-Rider|1990
+HW-2026-0386|Twin Mill|Blanco|Metal|Low-Rider|2017
+HW-2026-0387|Rodger Dodger|Verde|Fibra de Carbono (Simulada)|Low-Rider|1988
+HW-2026-0388|Twin Mill|Rojo|Plástico Reforzado|Clásico|1971
+HW-2026-0389|Rodger Dodger|Rojo|Plástico Reforzado|Off-Road|1977
+HW-2026-0390|Deora II|Azul|Plástico Reforzado|Low-Rider|2003
+HW-2026-0391|Twin Mill|Naranja|Aleación Ligera|Off-Road|1994
+HW-2026-0392|Bone Shaker|Verde|Fibra de Carbono (Simulada)|Clásico|1971
+HW-2026-0393|Deora II|Rojo|Fibra de Carbono (Simulada)|Low-Rider|2024
+HW-2026-0394|Twin Mill|Blanco|Fibra de Carbono (Simulada)|Clásico|1972
+HW-2026-0395|Muscle Tone|Azul|Fibra de Carbono (Simulada)|Low-Rider|1994
+HW-2026-0396|Twin Mill|Rojo|Aleación Ligera|Prototipo|1986
+HW-2026-0397|Twin Mill|Azul|Metal|Clásico|1995
+HW-2026-0398|Bone Shaker|Negro|Plástico Reforzado|Off-Road|2000
+HW-2026-0399|Rodger Dodger|Naranja|Aleación Ligera|Prototipo|2013
+HW-2026-0400|Bone Shaker|Blanco|Metal|Low-Rider|2004
+HW-2026-0401|Bone Shaker|Naranja|Plástico Reforzado|Clásico|2003
+HW-2026-0402|Night Shifter|Azul|Metal|Deportivo|2018
+HW-2026-0403|Rodger Dodger|Naranja|Plástico Reforzado|Clásico|2020
+HW-2026-0404|Rodger Dodger|Negro|Aleación Ligera|Deportivo|1990
+HW-2026-0405|Night Shifter|Rojo|Fibra de Carbono (Simulada)|Deportivo|1997
+HW-2026-0406|Rodger Dodger|Amarillo|Fibra de Carbono (Simulada)|Clásico|2008
+HW-2026-0407|Bone Shaker|Blanco|Fibra de Carbono (Simulada)|Deportivo|1980
+HW-2026-0408|Night Shifter|Amarillo|Fibra de Carbono (Simulada)|Prototipo|1974
+HW-2026-0409|Rodger Dodger|Naranja|Plástico Reforzado|Prototipo|1973
+HW-2026-0410|Deora II|Azul|Aleación Ligera|Off-Road|2021
+HW-2026-0411|Night Shifter|Negro|Aleación Ligera|Low-Rider|1978
+HW-2026-0412|Bone Shaker|Blanco|Fibra de Carbono (Simulada)|Deportivo|1993
+HW-2026-0413|Night Shifter|Amarillo|Plástico Reforzado|Off-Road|1979
+HW-2026-0414|Twin Mill|Negro|Fibra de Carbono (Simulada)|Low-Rider|2003
+HW-2026-0415|Twin Mill|Blanco|Fibra de Carbono (Simulada)|Deportivo|1970
+HW-2026-0416|Rodger Dodger|Naranja|Aleación Ligera|Low-Rider|1974
+HW-2026-0417|Deora II|Rojo|Aleación Ligera|Clásico|2025
+HW-2026-0418|Twin Mill|Naranja|Metal|Deportivo|1999
+HW-2026-0419|Deora II|Naranja|Aleación Ligera|Prototipo|1973
+HW-2026-0420|Bone Shaker|Naranja|Plástico Reforzado|Prototipo|2003
+HW-2026-0421|Rodger Dodger|Verde|Aleación Ligera|Off-Road|2015
+HW-2026-0422|Rodger Dodger|Negro|Plástico Reforzado|Off-Road|2023
+HW-2026-0423|Bone Shaker|Rojo|Fibra de Carbono (Simulada)|Clásico|2025
+HW-2026-0424|Night Shifter|Negro|Plástico Reforzado|Prototipo|2007
+HW-2026-0425|Twin Mill|Blanco|Metal|Off-Road|2001
+HW-2026-0426|Night Shifter|Verde|Metal|Clásico|2012
+HW-2026-0427|Bone Shaker|Negro|Plástico Reforzado|Low-Rider|1986
+HW-2026-0428|Twin Mill|Amarillo|Aleación Ligera|Clásico|2021
+HW-2026-0429|Deora II|Blanco|Fibra de Carbono (Simulada)|Deportivo|1968
+HW-2026-0430|Bone Shaker|Azul|Aleación Ligera|Low-Rider|1983
+HW-2026-0431|Twin Mill|Negro|Aleación Ligera|Clásico|1987
+HW-2026-0432|Night Shifter|Negro|Aleación Ligera|Prototipo|1978
+HW-2026-0433|Twin Mill|Azul|Metal|Deportivo|2009
+HW-2026-0434|Bone Shaker|Rojo|Aleación Ligera|Low-Rider|2011
+HW-2026-0435|Bone Shaker|Azul|Aleación Ligera|Deportivo|1969
+HW-2026-0436|Deora II|Naranja|Aleación Ligera|Off-Road|1979
+HW-2026-0437|Night Shifter|Azul|Plástico Reforzado|Deportivo|2012
+HW-2026-0438|Night Shifter|Blanco|Fibra de Carbono (Simulada)|Off-Road|2003
+HW-2026-0439|Twin Mill|Blanco|Plástico Reforzado|Prototipo|2010
+HW-2026-0440|Deora II|Rojo|Fibra de Carbono (Simulada)|Prototipo|2024
+HW-2026-0441|Night Shifter|Azul|Plástico Reforzado|Deportivo|2021
+HW-2026-0442|Night Shifter|Verde|Fibra de Carbono (Simulada)|Low-Rider|1986
+HW-2026-0443|Bone Shaker|Verde|Metal|Clásico|1989
+HW-2026-0444|Night Shifter|Blanco|Fibra de Carbono (Simulada)|Low-Rider|2006
+HW-2026-0445|Muscle Tone|Verde|Fibra de Carbono (Simulada)|Deportivo|2014
+HW-2026-0446|Deora II|Blanco|Aleación Ligera|Deportivo|1993
+HW-2026-0447|Twin Mill|Negro|Plástico Reforzado|Off-Road|1985
+HW-2026-0448|Rodger Dodger|Negro|Plástico Reforzado|Prototipo|1968
+HW-2026-0449|Deora II|Blanco|Plástico Reforzado|Deportivo|2012
+HW-2026-0450|Deora II|Amarillo|Aleación Ligera|Clásico|1975
+HW-2026-0451|Twin Mill|Azul|Metal|Prototipo|2023
+HW-2026-0452|Bone Shaker|Azul|Plástico Reforzado|Prototipo|1973
+HW-2026-0453|Rodger Dodger|Rojo|Aleación Ligera|Clásico|2008
+HW-2026-0454|Night Shifter|Negro|Plástico Reforzado|Clásico|2019
+HW-2026-0455|Twin Mill|Negro|Metal|Low-Rider|1970
+HW-2026-0456|Night Shifter|Amarillo|Plástico Reforzado|Off-Road|2003
+HW-2026-0457|Rodger Dodger|Rojo|Metal|Prototipo|1968
+HW-2026-0458|Muscle Tone|Verde|Metal|Off-Road|1998
+HW-2026-0459|Muscle Tone|Amarillo|Plástico Reforzado|Low-Rider|2024
+HW-2026-0460|Muscle Tone|Blanco|Fibra de Carbono (Simulada)|Off-Road|1986
+HW-2026-0461|Muscle Tone|Negro|Plástico Reforzado|Clásico|2004
+HW-2026-0462|Bone Shaker|Negro|Aleación Ligera|Off-Road|1989
+HW-2026-0463|Night Shifter|Naranja|Fibra de Carbono (Simulada)|Off-Road|2022
+HW-2026-0464|Rodger Dodger|Azul|Aleación Ligera|Prototipo|2021
+HW-2026-0465|Muscle Tone|Azul|Plástico Reforzado|Clásico|1968
+HW-2026-0466|Rodger Dodger|Verde|Fibra de Carbono (Simulada)|Low-Rider|1987
+HW-2026-0467|Deora II|Blanco|Fibra de Carbono (Simulada)|Off-Road|2006
+HW-2026-0468|Twin Mill|Amarillo|Aleación Ligera|Prototipo|1974
+HW-2026-0469|Night Shifter|Negro|Fibra de Carbono (Simulada)|Low-Rider|1996
+HW-2026-0470|Bone Shaker|Naranja|Metal|Prototipo|2024
+HW-2026-0471|Twin Mill|Negro|Aleación Ligera|Clásico|2026
+HW-2026-0472|Muscle Tone|Naranja|Aleación Ligera|Low-Rider|1972
+HW-2026-0473|Bone Shaker|Verde|Metal|Clásico|1985
+HW-2026-0474|Twin Mill|Rojo|Metal|Low-Rider|1972
+HW-2026-0475|Twin Mill|Amarillo|Metal|Clásico|2005
+HW-2026-0476|Rodger Dodger|Blanco|Plástico Reforzado|Low-Rider|1976
+HW-2026-0477|Night Shifter|Verde|Fibra de Carbono (Simulada)|Low-Rider|1992
+HW-2026-0478|Night Shifter|Naranja|Fibra de Carbono (Simulada)|Deportivo|2022
+HW-2026-0479|Deora II|Negro|Plástico Reforzado|Clásico|1991
+HW-2026-0480|Rodger Dodger|Blanco|Fibra de Carbono (Simulada)|Prototipo|2010
+HW-2026-0481|Bone Shaker|Blanco|Plástico Reforzado|Clásico|2004
+HW-2026-0482|Twin Mill|Naranja|Fibra de Carbono (Simulada)|Low-Rider|1980
+HW-2026-0483|Rodger Dodger|Negro|Aleación Ligera|Off-Road|1982
+HW-2026-0484|Night Shifter|Blanco|Metal|Deportivo|2022
+HW-2026-0485|Twin Mill|Amarillo|Fibra de Carbono (Simulada)|Clásico|1996
+HW-2026-0486|Muscle Tone|Rojo|Aleación Ligera|Deportivo|1995
+HW-2026-0487|Rodger Dodger|Verde|Plástico Reforzado|Clásico|1997
+HW-2026-0488|Muscle Tone|Amarillo|Plástico Reforzado|Prototipo|1971
+HW-2026-0489|Twin Mill|Azul|Metal|Low-Rider|1979
+HW-2026-0490|Twin Mill|Azul|Fibra de Carbono (Simulada)|Deportivo|2015
+HW-2026-0491|Twin Mill|Blanco|Fibra de Carbono (Simulada)|Clásico|1999
+HW-2026-0492|Night Shifter|Verde|Metal|Clásico|1999
+HW-2026-0493|Muscle Tone|Blanco|Metal|Off-Road|1987
+HW-2026-0494|Rodger Dodger|Azul|Metal|Off-Road|2011
+HW-2026-0495|Deora II|Verde|Aleación Ligera|Deportivo|1998
+HW-2026-0496|Twin Mill|Naranja|Aleación Ligera|Deportivo|1987
+HW-2026-0497|Night Shifter|Negro|Plástico Reforzado|Prototipo|1976
+HW-2026-0498|Bone Shaker|Negro|Aleación Ligera|Prototipo|1979
+HW-2026-0499|Bone Shaker|Azul|Metal|Low-Rider|1981
+HW-2026-0500|Muscle Tone|Azul|Plástico Reforzado|Low-Rider|1987
